@@ -11,6 +11,10 @@
  font-weight:normal;
  font-style:normal
 }
+@viewport {
+  width: device-width ;
+  zoom: 1.0 ;
+}
 .fa {
  display:inline-block;
  font-family:FontAwesome;
