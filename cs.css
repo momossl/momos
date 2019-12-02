@@ -771,7 +771,7 @@
 <!---->#mobile-renderer {
  display: none;
 }
-@media screen and (max-device-width: 480px), screen and (max-width: 480px) {
+@media screen and (max-device-width: 720px), screen and (max-width: 720px) {
  #desktop-renderer {
   display: none;
  }
